@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/util/UImages</name>
+			<type>2</type>
+			<location>C:/Users/jakub/eclipse-workspace/Simplexe+Ui/bin/UImages</location>
+		</link>
+	</linkedResources>
 </projectDescription>
