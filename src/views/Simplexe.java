@@ -118,7 +118,7 @@ public class Simplexe extends JFrame {
 		this.setBounds(250,30,700,730);
 		this.setLocation(250, 30);
 		this.setIconImage(URessource.createIcon("logo.png","ressource").getImage());
-		this.setResizable(false);
+		this.setResizable(true);
 	
 		table = new JTable();
 		simplex = new models.Simplexe(null,0,0);
